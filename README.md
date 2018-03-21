@@ -10,4 +10,7 @@ Since there are no 50,000 feet view of blockchain consensus algorithms/mechanism
 | 2   | Scalability|                |                |      |      |---------| ----------|
 | 3   | Incentives |                |                |      |      |         |           |
 
+
+[This Paper is a WIP]
+
 Nathan Aw
